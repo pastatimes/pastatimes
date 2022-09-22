@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @pastatimes
-- 👀 I’m interested in UX Design and software development
-- 🌱 I’m currently learning more about software development & testing
+- 👀 I’m interested in UX Design, Web Design and Web Development 
+- 🌱 I’m currently learning more about Web Design and Web Development
+- 🍜 My favorite food are noodles
 <!---
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on jobs in Front-End Design
+- 📫 How to reach me k.vanruiven@hotmail.com
 --->
 
 <!---
