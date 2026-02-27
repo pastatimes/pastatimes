@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @pastatimes
-- 👀 I’m interested in Data Science and Web Development 
-- 🌱 I’m currently enrolled in a bootcamp about Web Development
-- 🍜 My go-to comfort food is noodles
-- 👩‍🎓 I did a Master Information Studies
+
 <!---
 - 💞️ I’m looking to collaborate on jobs in Front-End Design
 - 📫 How to reach me k.vanruiven@hotmail.com
