@@ -4,9 +4,9 @@
 
 Ik bouw AI waar je achter kunt staan: verantwoord, uitlegbaar en met de mens aan het stuur. Voor bedrijven en ondernemers die kiezen voor een mens-gerichte toekomst met technologie.
 
-- 🎓 MSc Information Studies (UvA), afstudeeronderzoek naar AI-bias in hate speech-detectie (BERT, multi-label classificatie)
-- 🛠️ Achtergrond als IT-consultant: softwaretesten, functioneel ontwerp en businessanalyse bij o.a. een bank, een pensioenfonds en een IT-startup
-- 🤖 Nu zelfstandig: GDPR-compliant AI-implementaties, automatisering, webtools en workshops AI-geletterdheid (EU AI Act)
+- MSc Information Studies (UvA), afstudeeronderzoek naar AI-bias in hate speech-detectie (BERT, multi-label classificatie)
+- Achtergrond als IT-consultant: softwaretesten, functioneel ontwerp en businessanalyse bij o.a. een bank, een pensioenfonds en een IT-startup
+- Nu zelfstandig: GDPR-compliant AI-implementaties, automatisering, webtools en workshops AI-geletterdheid (EU AI Act)
 
 ## Uitgelicht werk
 
