@@ -22,7 +22,7 @@ Ik bouw AI waar je achter kunt staan: verantwoord, uitlegbaar en met de mens aan
 - **Web development**: de broncode van mijn eigen site [kimberleyvanruiven.nl](https://github.com/pastatimes/spill-your-tea) (Next.js, TypeScript), inclusief ontwerpiteraties
 - **Full-stack leerpad**: Le Wagon bootcamp (Ruby on Rails) en Harvard CS50; de oefenprojecten staan als gearchiveerd leerspoor in mijn repos
 - **Kwaliteit en testen**: jaren ervaring als software tester en test consultant in de financiële sector; die blik zit in alles wat ik bouw
-- **Gereedschap**: Linux (Ubuntu, zelf geïnstalleerd), Claude Code, Cursor, VS Code, Git
+- **Gereedschap**: Linux (Ubuntu, zelf geïnstalleerd), Next.js, Vercel, Claude Code, Cursor, VS Code, Git
 
 ## Contact
 
