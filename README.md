@@ -4,9 +4,9 @@
 
 Ik bouw AI waar je achter kunt staan: verantwoord, uitlegbaar en met de mens aan het stuur. Voor bedrijven en ondernemers die kiezen voor een mens-gerichte toekomst met technologie.
 
-- MSc Information Studies (UvA), afstudeeronderzoek naar AI-bias in hate speech-detectie (BERT, multi-label classificatie)
-- Achtergrond als IT-consultant: softwaretesten, functioneel ontwerp en businessanalyse bij o.a. een bank, een pensioenfonds en een IT-startup
-- Nu zelfstandig: GDPR-compliant AI-implementaties, automatisering, webtools en workshops AI-geletterdheid (EU AI Act)
+- 🎓 MSc Information Studies (UvA), afstudeeronderzoek naar AI-bias in hate speech-detectie (BERT, multi-label classificatie)
+- 🛠️ Achtergrond als IT-consultant: softwaretesten, functioneel ontwerp en businessanalyse bij o.a. een bank, een pensioenfonds en een IT-startup
+- 🤖 Nu zelfstandig: GDPR-compliant AI-implementaties, automatisering, webtools en workshops AI-geletterdheid (EU AI Act)
 
 ## Uitgelicht werk
 
@@ -22,7 +22,7 @@ Ik bouw AI waar je achter kunt staan: verantwoord, uitlegbaar en met de mens aan
 - **Web development**: de broncode van mijn eigen site [kimberleyvanruiven.nl](https://github.com/pastatimes/spill-your-tea) (Next.js, TypeScript), inclusief ontwerpiteraties
 - **Full-stack leerpad**: Le Wagon bootcamp (Ruby on Rails) en Harvard CS50; de oefenprojecten staan als gearchiveerd leerspoor in mijn repos
 - **Kwaliteit en testen**: jaren ervaring als software tester en test consultant in de financiële sector; die blik zit in alles wat ik bouw
-- **Gereedschap**: Linux (Ubuntu, zelf geïnstalleerd), Next.js, Vercel, Claude Code, Cursor, VS Code, Git
+- **Gereedschap**: Linux (Ubuntu, zelf geïnstalleerd), TypeScript, React, Next.js, Tailwind CSS, D3, Vercel, Claude Code, Cursor, VS Code, Git
 
 ## Contact
 
