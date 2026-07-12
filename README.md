@@ -14,7 +14,7 @@ Ik bouw AI waar je achter kunt staan: verantwoord, uitlegbaar en met de mens aan
 |---|---|
 | [AI CO2-calculator](https://github.com/kimberleyscode/ai-co2-calculator) | De klimaatimpact van je AI-gebruik in een minuut inzichtelijk (Next.js, Claude API). [Probeer hem live](https://www.kimberleyvanruiven.nl/co2) |
 | [Gebruik jij AI, of gebruikt AI jou?](https://github.com/kimberleyscode/ai-quiz) | Quiz over bewust AI-gebruik (PWA). [Doe de quiz](https://kimberleyscode.github.io/ai-quiz/) |
-| [Nectar: privacyvriendelijke cyclustracker](https://github.com/kimberleyscode/nectar) | Privacy als gevolg van het ontwerp, niet als instelling: alle data blijft op je eigen apparaat. Geen account, geen server (PWA, D3) |
+| [Nectar: privacyvriendelijke cyclustracker](https://github.com/kimberleyscode/nectar) | Privacy als gevolg van het ontwerp, niet als instelling: alle data blijft op je eigen apparaat. Zonder account of server (PWA, D3) |
 | [MSc-onderzoek hate speech-detectie](https://github.com/kimberleyscode/Master-Thesis-HateSpeech-Twitter) | Multi-label classificatie van politieke tweets met menselijke annotatie (Swivl) en BERT |
 | [Vertrouwen in AI: dashboard](https://github.com/kimberleyscode/ai-dashboard) | PWA-dashboard over verantwoord AI-gebruik (in ontwikkeling) |
 
